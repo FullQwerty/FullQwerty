@@ -3,7 +3,7 @@
 ### I'm a junior programmer!
 
 I like
-- :basecamp:: travel
+- :basecamp: travel
 - :tea: tea
 - :musical_note: music
 
