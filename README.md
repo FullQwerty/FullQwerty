@@ -26,7 +26,6 @@ and coding of course :computer:
 [<img algin="left" alt="VK" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111712.png" />][vk]
 [<img algin="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" />][instagram]
 [<img algin="left" alt="Telegram" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111644.png" />][telegram]
-[<img algin="left" alt="Mail" width="26px" src="https://image.flaticon.com/icons/png/128/732/732200.png" />][mail]
 
 [vk]:https://vk.com/vvw1wvv
 [instagram]:https://www.instagram.com/andreewwich
