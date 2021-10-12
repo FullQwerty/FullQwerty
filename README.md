@@ -33,5 +33,5 @@ and coding of course :desktop_computer:
 
 [vk]:https://vk.com/vvw1wvv
 [instagram]:https://www.instagram.com/k1rea1
-[telegram]:https://t.me/appupapp
+[telegram]:https://t.me/onetriangle
 [mail]:mailto:jr.developer101@gmail.com
