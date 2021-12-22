@@ -32,6 +32,6 @@ and coding of course :desktop_computer:
 <br />
 
 [vk]:https://vk.com/vvw1wvv
-[instagram]:https://www.instagram.com/k1rea1
+[instagram]:https://www.instagram.com/and.reewich
 [telegram]:https://t.me/onetriangle
 [mail]:mailto:jr.developer101@gmail.com
