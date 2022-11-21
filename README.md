@@ -20,4 +20,4 @@ and coding of course :desktop_computer:
 <br />
 <br />
 
-[telegram]:https://t.me/udigitalvpn
+[telegram]:https://t.me/lkdtg
